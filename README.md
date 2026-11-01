@@ -45,3 +45,4 @@ npm run dev            # runs on :5173
 | Frontend | https://techfest-2026.vercel.app |
 | Backend API | https://techfest-2026-api.onrender.com |
 | Database | MongoDB Atlas |
+# Performance optimizations added
